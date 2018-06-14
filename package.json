@@ -1,0 +1,25 @@
+{
+  "name": "surfreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "leaflet.js",
+  "scripts": {
+    "sass": "node-sass-chokidar sass-skeleton/main.scss css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperBerny/searchflix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperBerny/searchflix/issues"
+  },
+  "homepage": "https://github.com/SuperBerny/searchflix#readme",
+  "dependencies": {
+    "audit": "0.0.6",
+    "axios": "^0.18.0",
+    "fix": "0.0.6",
+    "node-sass-chokidar": "^1.3.0"
+  }
+}
